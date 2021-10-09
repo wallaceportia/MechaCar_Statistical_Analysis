@@ -52,7 +52,7 @@ The standard distribution PSI is 7.89 this tells us on average how much each ind
 
 * Lot 1: The mean and the median are equal showing there is no skewness.  The variation coefficient is .98 which is less than one and is tell us that there is not a great amount of variation from the mean. We also see that the standard deviation .99 shows there is not a significant spread around the mean.  In manufacturing this is ideal and, in this case, this is directly related to the manufacturing of a car, so this is acceptable.
 
-![T.Test Lot2]()
+![T.Test Lot2](https://github.com/wallaceportia/MechaCar_Statistical_Analysis/blob/main/Resources/One_Sample_Ttest_Lot2.PNG)
 
 * Lot 2: The mean and the median are equal suggesting that there is not a lot of skewness.  We however see that the variation coefficient is 7.46. This is greater than one and would indicate that that Lot 2 may need to tighten up their procedures in either the areas of labor or materials. The variance of 7.5 therefore playing a small factor to the total summary variance. 
  
