@@ -32,4 +32,17 @@ The slope of the linear model is not considered to be zero because the __p-value
 
 ###### Total_Summary
 
-![]()
+![Total Summary](https://github.com/wallaceportia/MechaCar_Statistical_Analysis/blob/main/Resources/Total_Summary.PNG)
+
+###### Analysis:
+
+The mean PSI is __1498.78(1499)__ this gives us the average of all PSIs of the 50 prototypes. When the mean is equal to the median, it is showing us that the distribution it not skewed, that is the distribution is even.
+The median PSI is 1500, the median is the middle number in the measurement of the PSI. This is telling us that half the observation are above the value and half the observations are below the 1500.  
+The variance PSI __62.293__ is a measure of dispersion around the mean. If following the rule of thumb a CV >= 1 is a relatively high variation.  Conversely CV < 1 is considered to be low-variance. A variation of 62.3 might be considered a bit high, particularly if this is for manufacturing for a car; we will want variance to be very miniscule.
+The standard distribution PSI is 7.89 this tells us on average how much each individual score differs from the mean of __1498.78__.  Here we observe that we have a normal distribution we will expect our standard deviation to be quite small, that is the scores should not have a large spread around the mean value. 
+
+## T-Tests on Suspension Coils
+
+###### Lot Summary
+
+![Lot Summary]()
