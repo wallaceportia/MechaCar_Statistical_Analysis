@@ -18,3 +18,7 @@ t.test(Suspension_Coil$PSI, mu=1500)
 t.test(subset(Suspension_Coil$PSI, Suspension_Coil$Manufacturing_Lot == 'Lot1'), mu=1500)
 t.test(subset(Suspension_Coil$PSI, Suspension_Coil$Manufacturing_Lot == 'Lot2'), mu=1500)
 t.test(subset(Suspension_Coil$PSI, Suspension_Coil$Manufacturing_Lot == 'Lot3'), mu=1500)
+
+
+# MechaCar vs. competition
+t.test(MechaCar_mpg$vehicle_weight, mu=3350,alternative = "less")
